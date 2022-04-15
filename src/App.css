@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Raleway', sans-serif;
+
+}
+
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -28,6 +37,17 @@
   color: #61dafb;
 }
 
+
+.wrap_container{
+  display: flex;
+}
+
+.catehead{
+ margin: 20px 35px;
+ font-size: 18px;
+ font-weight: bold;
+ margin-top: 30px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

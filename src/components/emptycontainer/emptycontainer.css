@@ -1,0 +1,14 @@
+.emptycontainer{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.emptycontainer h2{
+    font-size: 150px;
+    opacity: 0.3;
+}
+
+.emptycontainer p{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5)
+}

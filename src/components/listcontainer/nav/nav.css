@@ -1,0 +1,27 @@
+.nav{
+    padding: 30px 0;
+    
+}
+.nav span{
+ margin: 20px 20px;
+ font-size: 18px;
+ color: rgba(0, 0, 0, 0.4);
+ cursor: pointer;
+ padding-bottom: 28px;
+ border-bottom: 3px solid rgba(0, 0, 0, 0);
+}
+
+.nav .active{
+    color: rgba(0, 0, 0, 0.8);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.8);
+    font-weight: bold;
+}
+
+hr{
+    border-color: rgba(0, 0, 0, 0.02);
+    background-color: rgba(0, 0, 0, 0.02);
+    position: relative;
+    bottom:2px;
+    left: 16px;
+    width: 86%;
+}
