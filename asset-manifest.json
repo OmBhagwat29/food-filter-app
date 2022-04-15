@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-filter-app/static/css/main.6318a1fd.css",
+    "main.js": "/food-filter-app/static/js/main.90d49d7d.js",
+    "index.html": "/food-filter-app/index.html",
+    "main.6318a1fd.css.map": "/food-filter-app/static/css/main.6318a1fd.css.map",
+    "main.90d49d7d.js.map": "/food-filter-app/static/js/main.90d49d7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6318a1fd.css",
+    "static/js/main.90d49d7d.js"
+  ]
+}
